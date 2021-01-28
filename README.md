@@ -6,6 +6,7 @@ Sums / Задачи:
 2. Guided text synthesis by inserting vector representations of primary knowledge. / Управляемый синтез текста за счет вставок векторных представлений первичных знаний.
 3. PY2SH
 
+...
 
 1. Установим transformers от HuggingFace:
 ```bash
