@@ -6,10 +6,14 @@ Sums / Задачи:
 2. Guided text synthesis by inserting vector representations of primary knowledge. / Управляемый синтез текста за счет вставок векторных представлений первичных знаний.
 3. PY2SH
 
-2. Импортируем токенайзер и модель типа GPT2Model:
+
+1. Установим transformers от HuggingFace:
 ```bash
 pip install transformers
 ```
+
+2. Импортируем токенайзер и модель типа GPT2Model:
+
 ```python
 from transformers import GPT2Tokenizer, GPT2Model
 
